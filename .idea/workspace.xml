@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="ccdd9111-d6a5-475d-b234-16fe5d673177" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/ewcfg12.php" afterPath="$PROJECT_DIR$/ewcfg12.php" />
+      <change beforePath="$PROJECT_DIR$/ewdbhelper12.php" afterPath="$PROJECT_DIR$/ewdbhelper12.php" />
+      <change beforePath="$PROJECT_DIR$/php_stockdb.php" afterPath="$PROJECT_DIR$/php_stockdb.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Connection</find>
+      <find>function Update</find>
+      <find>&lt;?php $a_customers_view-&gt;ExportOptions-&gt;Render(&quot;body&quot;) ?&gt;</find>
+      <find>Render()</find>
+      <find>Render(&quot;body&quot;)</find>
+      <find>$option</find>
+      <find>option</find>
+      <find>Render</find>
+      <find>function Render</find>
+      <find>function Render(</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ewcfg12.php" />
+        <option value="$PROJECT_DIR$/ewdbhelper12.php" />
+        <option value="$PROJECT_DIR$/php_stockdb.php" />
+        <option value="$PROJECT_DIR$/a_customerslist.php" />
+        <option value="$PROJECT_DIR$/a_customersadd.php" />
+        <option value="$PROJECT_DIR$/a_customerssrch.php" />
+        <option value="$PROJECT_DIR$/a_customersdelete.php" />
+        <option value="$PROJECT_DIR$/a_customersupdate.php" />
+        <option value="$PROJECT_DIR$/a_customersedit.php" />
+        <option value="$PROJECT_DIR$/a_customersinfo.php" />
+        <option value="$PROJECT_DIR$/phpfn12.php" />
+        <option value="$PROJECT_DIR$/a_customersview.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="409" />
+    <option name="y" value="151" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="progetto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progetto" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="ctable&#9;null&#9;null&#10;Render&#9;null&#9;null&#10;cTable&#9;null&#9;null&#10;Connection&#9;null&#9;null&#10;ca_customers&#9;null&#9;null" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="svn" revision="71">D:\Programmi\XAMPP\htdocs\progetto\a_customerslist.php</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="svn" revision="71">D:\Programmi\XAMPP\htdocs\progetto\render_option_ext.php</PATH>
+          <PATH vcs="svn" revision="71">D:\Programmi\XAMPP\htdocs\progetto\cod_html.php</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/progetto/index.php" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration>C:\Users\Simone\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programmi\XAMPP\htdocs\progetto" />
+          <option name="myCopyRoot" value="D:\Programmi\XAMPP\htdocs\progetto" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programmi\XAMPP\htdocs\progetto" />
+          <option name="myCopyRoot" value="D:\Programmi\XAMPP\htdocs\progetto" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccdd9111-d6a5-475d-b234-16fe5d673177" name="Default" comment="" />
+      <created>1513956046110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513956046110</updated>
+      <workItem from="1513956048083" duration="237000" />
+      <workItem from="1513956285984" duration="7388000" />
+      <workItem from="1514114923630" duration="500000" />
+      <workItem from="1514117162885" duration="3776000" />
+      <workItem from="1514373257029" duration="11982000" />
+    </task>
+    <task id="LOCAL-00001" summary="Spent time: fixes #10138 @3h0m&#10;Strategia di risoluzione: Scomposizione e riduzione degli if annidati con un livello di annidamento superiore o uguale a 6 in if annidati con un livello di annidamento inferiore a 6.">
+      <created>1513964530133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513964530134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Spent time: fixes #10138 @3h0m&#10;Strategia di risoluzione: Scomposizione e riduzione degli if annidati con un livello di annidamento superiore o uguale a 6 in if annidati con un livello di annidamento inferiore a 6.">
+      <created>1514124521142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514124521142</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Spent time: fixes #10141 @2h0m&#10;Strategia di risoluzione: Rimozione dei metodi exit() or die() e sostituzione con il metodo print(), fornendo un messaggio di errore.">
+      <created>1514376616133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514376616133</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Spent time: fixes #10141 @0h30m&#10;Strategia di risoluzione: Rimozione dei metodi exit() or die() e sostituzione con il metodo print(), fornendo un messaggio di errore.">
+      <created>1514383766118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1514383766118</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Spent time: fixes #10144 @0h30m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione.">
+      <created>1514386058126</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1514386058126</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Spent time: fixes #10144 @1h30m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione.">
+      <created>1514399317125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1514399317125</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23883000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23697917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spent time: fixes #10138 @3h0m&#10;Strategia di risoluzione: Scomposizione e riduzione degli if annidati con un livello di annidamento superiore o uguale a 6 in if annidati con un livello di annidamento inferiore a 6." />
+    <MESSAGE value="Spent time: fixes #10141 @2h0m&#10;Strategia di risoluzione: Rimozione dei metodi exit() or die() e sostituzione con il metodo print(), fornendo un messaggio di errore." />
+    <MESSAGE value="Spent time: fixes #10141 @0h30m&#10;Strategia di risoluzione: Rimozione dei metodi exit() or die() e sostituzione con il metodo print(), fornendo un messaggio di errore." />
+    <MESSAGE value="Spent time: fixes #10144 @0h30m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione." />
+    <MESSAGE value="Spent time: fixes #10144 @1h30m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione." />
+    <option name="LAST_COMMIT_MESSAGE" value="Spent time: fixes #10144 @1h30m&#10;Strategia di risoluzione: Rimozione o aggiunta dei parametri mancanti rispetto alla dichiarazione della funzione." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/a_customerslist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514399388995" expanded="true" signature="47180:47186" ph=" " />
+            <marker date="1514399388995" expanded="true" signature="47550:47556" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewcfg12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="60" column="160" lean-forward="true" selection-start-line="60" selection-start-column="160" selection-end-line="60" selection-end-column="160" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_sales_detaildelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customerslist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="449" column="46" lean-forward="false" selection-start-line="449" selection-start-column="46" selection-end-line="449" selection-end-column="46" />
+          <folding>
+            <marker date="1514399388995" expanded="true" signature="47180:47186" ph=" " />
+            <marker date="1514399388995" expanded="true" signature="47550:47556" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customerssrch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="420" column="49" lean-forward="false" selection-start-line="420" selection-start-column="49" selection-end-line="420" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersdelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="369" column="43" lean-forward="false" selection-start-line="369" selection-start-column="43" selection-end-line="369" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewmysql12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding>
+            <marker date="1446475940000" expanded="true" signature="14067:14116" ph="select ${$fl... ${$tables}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewdbhelper12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="86" column="8" lean-forward="false" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+          <folding>
+            <marker date="1513956575055" expanded="true" signature="5787:5805" ph="..." />
+            <marker date="1513956575055" expanded="true" signature="6339:6357" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_stockdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+          <folding>
+            <marker date="1513956600054" expanded="true" signature="5209:5227" ph="..." />
+            <marker date="1513956600054" expanded="true" signature="5761:5779" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersadd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="395" column="40" lean-forward="false" selection-start-line="395" selection-start-column="40" selection-end-line="395" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="856" column="53" lean-forward="true" selection-start-line="856" selection-start-column="53" selection-end-line="856" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersedit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="844" column="51" lean-forward="false" selection-start-line="844" selection-start-column="51" selection-end-line="844" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <marker date="1514398359210" expanded="true" signature="8128:8142" ph="SELECT * FRO... ${$this-&gt;getSqlFrom()}" />
+            <marker date="1514398359210" expanded="true" signature="12343:12387" ph="DELETE FROM ${$this-&gt;UpdateTable}... " />
+            <marker date="1514398359210" expanded="true" signature="35469:35506" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dompdf061/include/renderer.cls.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="1413" column="2" lean-forward="true" selection-start-line="1413" selection-start-column="2" selection-end-line="1413" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpfn12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="2940" column="20" lean-forward="false" selection-start-line="2940" selection-start-column="4" selection-end-line="2940" selection-end-column="20" />
+          <folding>
+            <marker date="1446476340000" expanded="true" signature="23904:23928" ph="..." />
+            <marker date="1446476340000" expanded="true" signature="23931:23937" ph=" " />
+            <marker date="1446476340000" expanded="true" signature="37108:37313" ph="SELECT C.* F... ${MS_MASINO_BREADCRUMBLINKS_TABLE}" />
+            <marker date="1446476340000" expanded="true" signature="45070:45082" ph="DELETE FROM ${$this-&gt;UpdateTable}... " />
+            <marker date="1446476340000" expanded="true" signature="91859:91876" ph="..." />
+            <marker date="1446476340000" expanded="true" signature="144384:144474" ph="SELECT COUNT... ${EW_USER_LEVEL_TABLE}" />
+            <marker date="1446476340000" expanded="true" signature="144532:144734" ph="INSERT INTO ${EW_USER_LEVEL_TABLE}... " />
+            <marker date="1446476340000" expanded="true" signature="145098:145209" ph="SELECT COUNT... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1446476340000" expanded="true" signature="145676:145967" ph="INSERT INTO ${EW_USER_LEVEL_PRIV_TABLE}... " />
+            <marker date="1446476340000" expanded="true" signature="147246:147406" ph="ALTER TABLE ${EW_USER_LEVEL_PRIV_TABLE}... " />
+            <marker date="1446476340000" expanded="true" signature="147614:147796" ph="SELECT COUNT... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1446476340000" expanded="true" signature="147681:147795" ph="SELECT * FRO... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1446476340000" expanded="true" signature="148447:148690" ph="SELECT COUNT... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1446476340000" expanded="true" signature="148514:148689" ph="SELECT * FRO... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1446476340000" expanded="true" signature="210459:210465" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
